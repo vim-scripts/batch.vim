@@ -1,0 +1,18 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2326
+
+Execute vim script in selected area (with Visual Mode).
+Plugin copy selected area text to a temporary file,
+and execute temporary file as vim script file.
+
+This plugin will be used for
+    testing vim script file,
+    debuging vim script,
+    or loading selected vim editor options,,,,
+
+------------------------------------------------------------------------------
+
+[command format]
+
+:'<,'>Batch
+
+
